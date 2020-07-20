@@ -26,9 +26,9 @@
 
 Hi, I'm Ankit Kumar, a CSE undergraduate student from SRM Institute of Science and Technology, KTR 🏫. I'm also an indie game developer 🎮 snekaing my way into Data Science and Analytics 🤫.
 
-Beside's developing stuff, I enjoy watching and playing sports ⚽🏀🏓🏎, listening to music 🎧 and eating food 🍕. Apart from that, I'm also a pundit when it comes to sports like Football, Basketball and F1 🧐.
+Beside's developing stuff, I enjoy watching and playing sports ⚽, listening to music 🎧 and eating food 🍕. Apart from that, I'm also a pundit when it comes to sports like Football, Basketball and F1 🧐.
 
-I'm also a die-hard supporter of Manchester United Football Club 😈⚽❤.
+I'm also a die-hard supporter of Manchester United Football Club ⚽❤.
 
 Uncomfortable thought: Warm Soda 😣.
 
