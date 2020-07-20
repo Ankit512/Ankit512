@@ -74,12 +74,15 @@ My recent projects :rocket:
 <a href="https://github.com/Ankit512/Employee-Attrition-Prediction">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Employee-Attrition-Prediction" />
 </a>
+
 <a href="https://github.com/Ankit512/Service-request-data-analysis-of-New-York-City-311-calls">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Service-request-data-analysis-of-New-York-City-311-calls" />
 </a>
+
 <a href="https://github.com/Ankit512/FPS-Minigame">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=FPS-Minigame" />
 </a>
+
 <a href="https://github.com/Ankit512/Dining-Philosophers-GUI">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Dining-Philosophers-GUI" />
 </a>
