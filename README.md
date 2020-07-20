@@ -37,6 +37,7 @@ Uncomfortable thought: Warm Soda 😣.
 **Talking about Personal Stuffs:**
 
 - 🌱 Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/)
+- 🎮 Indie Game Developer
 - 📈 Data Analyst
 - 📊 Data Science and Data Analytics Enthusiast 
 - 👦 Student Ambassador at [Foxmula](https://foxmula.com/)
