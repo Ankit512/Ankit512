@@ -28,6 +28,8 @@ Hi, I'm Ankit Kumar, a CSE undergraduate student from SRM Institute of Science a
 
 Beside's developing stuff, I enjoy watching and playing sports ⚽🏀🏓🏎, listening to music 🎧 and eating food 🍕. Apart from that, I'm also a pundit when it comes to sports like Football, Basketball and F1 🧐.
 
+I'm also a die-hard supporter of Manchester United Football Club 😈⚽❤.
+
 Uncomfortable thought: Warm Soda 😣.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/xIZku8V0y7uqk/giphy.gif" />
@@ -65,3 +67,21 @@ Uncomfortable thought: Warm Soda 😣.
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=Ankit512&show_icons=true&hide_border=true)
 
 :pushpin: Liked my introduction, You can also make a similar ones for yourself. Just Star and Fork this [README](https://github.com/Ankit512/Ankit512) :pencil:
+
+My recent projects :rocket:
+
+<a href="https://github.com/Ankit512/Employee-Attrition-Prediction">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Employee-Attrition-Prediction" />
+</a>
+<a href="https://github.com/Ankit512/Service-request-data-analysis-of-New-York-City-311-calls">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Service-request-data-analysis-of-New-York-City-311-calls" />
+</a>
+<a href="https://github.com/Ankit512/FPS-Minigame">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=FPS-Minigame" />
+</a>
+<a href="https://github.com/Ankit512/FPS-Minigame">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=FPS-Minigame" />
+</a>
+<a href="https://github.com/Ankit512/Dining-Philosophers-GUI">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Dining-Philosophers-GUI" />
+</a>
