@@ -71,6 +71,7 @@ Uncomfortable thought: Warm Soda 😣.
 
 My recent projects :rocket:
 
+
 <a href="https://github.com/Ankit512/Employee-Attrition-Prediction">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Employee-Attrition-Prediction" />
 </a>
@@ -86,3 +87,4 @@ My recent projects :rocket:
 <a href="https://github.com/Ankit512/Dining-Philosophers-GUI">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Dining-Philosophers-GUI" />
 </a>
+
