@@ -1,4 +1,4 @@
-### Hi there, I'm Ankit 👋👨‍💻 ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+### Hi there, I'm Ankit 👋👨‍💻 ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20) ![](https://pronoun.cyou/x/y?subject=Bro&object=Bruh&height=20)
 
 <a href="https://www.linkedin.com/in/ankitk79/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
