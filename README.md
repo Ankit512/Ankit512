@@ -2,25 +2,25 @@
 
 <a href="https://www.linkedin.com/in/ankitk79/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+window</a>
 <a href="https://github.com/Ankit512/">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
- </a>
+ window</a>
  <a href="https://twitter.com/theunusualankit/">
    <img align="left" alt="Ankit Kumar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
- </a>
+ window</a>
  <a href="https://www.instagram.com/whoisankit_101/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
- </a>
+ window</a>
  <a href="https://www.reddit.com/user/Freaknstein7">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
- </a>
+ window</a>
  <a href="https://www.hackerrank.com/AnkitK79">
    <img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
- </a>
+ window</a>
  <a href="https://medium.com/@ankit512.kumar">
    <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
- </a>
+ window</a>
 <br />
 <br />
 
@@ -74,17 +74,17 @@ My recent projects :rocket:
 
 <a href="https://github.com/Ankit512/Employee-Attrition-Prediction">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Employee-Attrition-Prediction" />
-</a>
+window</a>
 
 <a href="https://github.com/Ankit512/Service-request-data-analysis-of-New-York-City-311-calls">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Service-request-data-analysis-of-New-York-City-311-calls" />
-</a>
+window</a>
 
 <a href="https://github.com/Ankit512/FPS-Minigame">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=FPS-Minigame" />
-</a>
+window</a>
 
 <a href="https://github.com/Ankit512/Dining-Philosophers-GUI">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Dining-Philosophers-GUI" />
-</a>
+window</a>
 
