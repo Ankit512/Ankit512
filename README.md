@@ -1,8 +1,8 @@
 ### Hi there, I'm Ankit 👋👨‍💻 ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20) ![](https://pronoun.cyou/x/y?subject=Bro&object=Bruh&height=20)
 
-<a href="https://www.linkedin.com/in/ankitk79/">
+<a href="https://www.linkedin.com/in/ankitk79/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+Link</a>
 <a href="https://github.com/Ankit512/">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
