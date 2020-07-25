@@ -32,7 +32,7 @@ I'm also a die-hard supporter of Manchester United Football Club ⚽❤.
 
 Uncomfortable thought: Warm Soda 😣.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/xIZku8V0y7uqk/giphy.gif" />
+  <img align="right" alt="GIF" src="https://tenor.com/view/kevin-malone-the-office-say-lot-word-few-word-few-words-gif-15322018" />
   
 **Talking about Personal Stuffs:**
 
