@@ -39,7 +39,7 @@ Uncomfortable thought: Warm Soda 😣.
 - 🌱 Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/)
 - 🎮 Indie Game Developer
 - 📈 Data Analyst
-- 📊 Data Science and Data Analytics Enthusias 
+- 📊 Data Science and Data Analytics Enthusiast 
 - 👦 Student Ambassador at [Foxmula](https://foxmula.com/)
 - ❄ Github's **Arctic Code Vault Contributor** batch holder
 - 💼 Currently looking for new job opportunities
