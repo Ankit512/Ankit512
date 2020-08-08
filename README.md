@@ -72,7 +72,7 @@ Uncomfortable thought: Warm Soda 😣.
 My recent projects :rocket:
 
 <a href="https://github.com/Ankit512/AkatsukiJutsu-OpenCV">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=AkatsukiJutsu-OpenCV" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=AkatsukiJutsu-OpenCV" />
 </a>
 
 <a href="https://github.com/Ankit512/Employee-Attrition-Prediction">
@@ -80,7 +80,7 @@ My recent projects :rocket:
 </a>
 
 <a href="https://github.com/Ankit512/Service-request-data-analysis-of-New-York-City-311-calls">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Service-request-data-analysis-of-New-York-City-311-calls" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Service-request-data-analysis-of-New-York-City-311-calls" />
 </a>
 
 <a href="https://github.com/Ankit512/FPS-Minigame">
