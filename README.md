@@ -65,6 +65,8 @@ Uncomfortable thought: Warm Soda 😣.
 <img align="center" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
 <img align="center" alt="LaTeX" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/latex.svg" />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit512&layout=compact&hide=html" alt="Ankit512" /></p>
+
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=Ankit512&show_icons=true&hide_border=true)
 
 :pushpin: Liked my introduction, You can also make a similar ones for yourself. Just Star and Fork this [README](https://github.com/Ankit512/Ankit512) :pencil:
