@@ -38,13 +38,12 @@ Uncomfortable thought: Warm Soda 😣.
   
 **Talking about Personal Stuffs:**
 
-- 🌱 Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/)
+- 🌱 Ex-Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/)
 - 🎮 Indie Game Developer
 - 📈 Data Analyst
 - 📊 Data Science and Data Analytics Enthusiast 
-- 👦 Student Ambassador at [Foxmula](https://foxmula.com/)
+- 👦 Ex-Student Ambassador at [Foxmula](https://foxmula.com/)
 - ❄ Github's **Arctic Code Vault Contributor** batch holder
-- 💼 Currently looking for new job opportunities
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: ankit512.kumar@gmail.com
 
