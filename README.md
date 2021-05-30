@@ -74,16 +74,16 @@ Uncomfortable thought: Warm Soda 😣.
 
 My recent projects :rocket:
 
+<a href="https://github.com/Ankit512/object-detection-using-trigger-word">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=object-detection-using-trigger-word" />
+</a>
+
 <a href="https://github.com/Ankit512/AkatsukiJutsu-OpenCV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=AkatsukiJutsu-OpenCV" />
 </a>
 
 <a href="https://github.com/Ankit512/Employee-Attrition-Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Employee-Attrition-Prediction" />
-</a>
-
-<a href="https://github.com/Ankit512/Service-request-data-analysis-of-New-York-City-311-calls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Service-request-data-analysis-of-New-York-City-311-calls" />
 </a>
 
 <a href="https://github.com/Ankit512/FPS-Minigame">
