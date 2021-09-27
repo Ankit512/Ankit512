@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit512" alt="Ankit512" /> </p>
 
-Hi, I'm Ankit Kumar, Associate SWE at EY (Ernst & Young) 👨‍💻 and an Alumni of SRM Institute of Science and Technology, KTR 🏫. When I'm not coding. I'm either socializing with a Friend(s)/Family/Colleague(s), choosing my FPL(Fantasy Premier League) team for the week, watching Football or Travelling.
+Hi, I'm Ankit Kumar, Associate SWE at EY (Ernst & Young) 👨‍💻 and an Alumni of SRM Institute of Science and Technology, KTR (Computer Science and Engineering) 🏫. When I'm not coding. I'm either socializing with a Friend(s)/Family/Colleague(s), choosing my FPL(Fantasy Premier League) team for the week, watching Football or Travelling.
 
 If I'm not doing either of those, then, I'm probably busy binging a movie/show on Netflix or maybe gaming on my PC.
 
