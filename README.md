@@ -26,11 +26,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit512" alt="Ankit512" /> </p>
 
-Hi, I'm Ankit Kumar, final year CSE undergrad from SRM Institute of Science and Technology, KTR 🏫. I'm also an indie game developer 🎮 snekaing my way into Data Science and Analytics 🤫.
+Hi, I'm Ankit Kumar, Associate SWE at EY (Ernst & Young) 👨‍💻 and an Alumni of SRM Institute of Science and Technology, KTR 🏫. When I'm not coding. I'm either socializing with a Friend(s)/Family/Colleague(s), choosing my FPL(Fantasy Premier League) team for the week, watching Football or Travelling.
 
-Beside's developing stuff, I enjoy watching and playing sports ⚽, listening to music 🎧 and eating food 🍕. Apart from that, I'm also a pundit when it comes to sports like Football, Basketball and F1 🧐.
+If I'm not doing either of those, then, I'm probably busy binging a movie/show on Netflix or maybe gaming on my PC.
 
-I'm also a die-hard supporter of Manchester United Football Club ⚽❤.
+I'm also a tech-geek and I love trying new tech products (be it software or hardware) and catching up on the latest tech news.
+
+Manchester United Football Club for life ❤.
 
 Uncomfortable thought: Warm Soda 😣.
 
@@ -38,11 +40,9 @@ Uncomfortable thought: Warm Soda 😣.
   
 **Talking about Personal Stuffs:**
 
-- 🌱 Ex-Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/)
-- 🎮 Indie Game Developer
-- 📈 Data Analyst
-- 📊 Data Science and Data Analytics Enthusiast 
-- 👦 Ex-Student Ambassador at [Foxmula](https://foxmula.com/)
+- 👨‍💻 Associate Software Engineer at [EY](https://www.ey.com/) GDS.
+- 🎮 Ex-Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/) 
+- 📈 Ex-Student Ambassador at [Foxmula](https://foxmula.com/)
 - ❄ Github's **Arctic Code Vault Contributor** batch holder
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: ankit512.kumar@gmail.com
