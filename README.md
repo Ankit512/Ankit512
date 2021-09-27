@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit512" alt="Ankit512" /> </p>
 
-Hi, I'm Ankit Kumar, Associate SWE at EY (Ernst & Young) 👨‍💻 and an Alumni of SRM Institute of Science and Technology, KTR (CSE) 🏫. When I'm not coding. I'm either socializing with a Friend(s)/Family/Colleague(s), choosing my FPL(Fantasy Premier League) team for the week, watching Football or Travelling.
+Hi, I'm Ankit Kumar, Associate Software Engineer at EY (Ernst & Young) 👨‍💻 and an Alumni of SRM Institute of Science and Technology, KTR (CSE) 🏫. When I'm not coding. I'm either socializing with a Friend(s)/Family/Colleague(s), choosing my FPL(Fantasy Premier League) team for the week, watching Football or Travelling.
 
 If I'm not doing either of those, then, I'm probably busy binging a movie/show on Netflix or maybe gaming on my PC.
 
@@ -40,7 +40,8 @@ Uncomfortable thought: Warm Soda 😣.
   
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 Associate Software Engineer at [EY](https://www.ey.com/) GDS.
+- 👨‍💻 Associate Software Engineer at [EY GDS](https://www.ey.com/)
+- 📊 Ex-Data Anlytics Intern at [ANZ](https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship)
 - 🎮 Ex-Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/) 
 - 📈 Ex-Student Ambassador at [Foxmula](https://foxmula.com/)
 - ❄ Github's **Arctic Code Vault Contributor** batch holder
