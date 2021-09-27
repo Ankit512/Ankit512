@@ -40,7 +40,7 @@ Uncomfortable thought: Warm Soda 😣.
   
 **Talking about Professional Stuffs:**
 
-- 👨‍💻 Associate Software Engineer at [EY GDS](https://www.ey.com/)
+- 👨‍💻 Associate Software Engineer at [EY GDS](https://www.ey.com/en_in/consulting)
 - 📊 Ex-Data Anlytics Intern at [ANZ](https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship)
 - 🎮 Ex-Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/) 
 - 📈 Ex-Student Ambassador at [Foxmula](https://foxmula.com/)
