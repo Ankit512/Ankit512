@@ -38,7 +38,7 @@ Uncomfortable thought: Warm Soda 😣.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/xIZku8V0y7uqk/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Talking about Professional Stuffs:**
 
 - 👨‍💻 Associate Software Engineer at [EY GDS](https://www.ey.com/)
 - 📊 Ex-Data Anlytics Intern at [ANZ](https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship)
