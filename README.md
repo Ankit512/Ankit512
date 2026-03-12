@@ -26,9 +26,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit512" alt="Ankit512" /> </p>
 
-Hi, I'm Ankit Kumar, Associate Software Engineer at EY (Ernst & Young) 👨‍💻 and an Alumni of SRM Institute of Science and Technology, KTR (CSE) 🏫. When I'm not coding. I'm either socializing with a Friend(s)/Family/Colleague(s), choosing my FPL(Fantasy Premier League) team for the week, watching Football or Travelling.
+Hi, I'm Ankit Kumar, Product Manager 👨‍💻 and an Alumni of UCD Smurfit, MiM and SRM IST, KTR (CSE) 🏫. If I'm not busy, I'm either socializing with a Friend(s)/Family/Colleague(s), choosing my FPL(Fantasy Premier League) team for the week, watching Football or Travelling.
 
-If I'm not doing either of those, then, I'm probably busy binging a movie/show on Netflix or maybe gaming on my PC.
+If I'm not doing either of those, then, I'm probably busy binging a movie/show on Netflix or maybe gaming on my PS5.
 
 I'm also a tech-geek and I love trying new tech products (be it software or hardware) and catching up on the latest tech news.
 
@@ -40,7 +40,8 @@ Uncomfortable thought: Warm Soda 😣.
   
 **Talking about Professional Stuffs:**
 
-- 👨‍💻 Associate Software Engineer at [EY GDS](https://www.ey.com/en_in/consulting)
+- 👨‍💻 Ex-PM at [Vamstar](https://vamstar.io/) and [Losung360](https://losung360.com/) 
+- 👨‍💻 Ex-Product Engineering at [EY GDS](https://www.ey.com/en_in/consulting)
 - 📊 Ex-Data Anlytics Intern at [ANZ](https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship)
 - 🎮 Ex-Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/) 
 - 📈 Ex-Student Ambassador at [Foxmula](https://foxmula.com/)
@@ -72,24 +73,6 @@ Uncomfortable thought: Warm Soda 😣.
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=Ankit512&show_icons=true&hide_border=true)
 
 :pushpin: Liked my introduction, You can also make a similar ones for yourself. Just Star and Fork this [README](https://github.com/Ankit512/Ankit512) :pencil:
-
-My recent projects :rocket:
-
-<a href="https://github.com/Ankit512/object-detection-using-trigger-word">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=object-detection-using-trigger-word" />
-</a>
-
-<a href="https://github.com/Ankit512/AkatsukiJutsu-OpenCV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=AkatsukiJutsu-OpenCV" />
-</a>
-
-<a href="https://github.com/Ankit512/Employee-Attrition-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=Employee-Attrition-Prediction" />
-</a>
-
-<a href="https://github.com/Ankit512/FPS-Minigame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit512&repo=FPS-Minigame" />
-</a>
 
 
 
