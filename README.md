@@ -52,7 +52,7 @@ Uncomfortable thought: Warm Soda 😣.
 - 🤖 Co-Founder & AI Solutions Consultant at ITSolutioning & Consulting LLP — building agentic AI products end to end
 - 👨‍💻 Ex-Senior PM at [Losung360](https://losung360.com/)
 - 👨‍💻 Ex-PM at [Vamstar](https://vamstar.io/) 
-- 👨‍💻 Ex-Product Engineering at [EY GDS](https://www.ey.com/en_in/consulting)
+- 👨‍💻 Ex-Solutions Engineering at [EY GDS](https://www.ey.com/en_in/consulting)
 - 📊 Ex-Data Anlytics Intern at [ANZ](https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship)
 - 🎮 Ex-Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/) 
 - 📈 Ex-Student Ambassador at [Foxmula](https://foxmula.com/)
