@@ -57,8 +57,7 @@ Uncomfortable thought: Warm Soda 😣.
 - 🎮 Ex-Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/) 
 - 📈 Ex-Student Ambassador at [Foxmula](https://foxmula.com/)
 - ❄ Github's **Arctic Code Vault Contributor** batch holder
-- 🧠 Ask me about AI agents, MCP, RAG, evals and shipping AI products — happy to help
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about AI agents, MCP, RAG, evals and shipping AI products — happy to help
 - 📫 How to reach me: ankit512.kumar@gmail.com
 
 &nbsp;
