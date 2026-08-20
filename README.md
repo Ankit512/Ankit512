@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit512" alt="Ankit512" /> </p>
 
-Hi, I'm Ankit Kumar, Product Manager 👨‍💻 and an Alumni of UCD Smurfit, MiM and SRM IST, KTR (CSE) 🏫. If I'm not busy, I'm either socializing with a Friend(s)/Family/Colleague(s), choosing my FPL(Fantasy Premier League) team for the week, watching Football or Travelling.
+Hi, I'm Ankit Kumar, a Product Manager and AI builder 👨‍💻, the kind who ships, not just specs. I sit on the customer's side of a hard technical problem, design the system, and build it with AI tooling until it's live. Alumni of UCD Smurfit (MiM) and SRM IST, KTR (CSE) 🏫.
 
 If I'm not doing either of those, then, I'm probably busy binging a movie/show on Netflix or maybe gaming on my PS5.
 
@@ -37,15 +37,24 @@ Manchester United Football Club for life ❤.
 Uncomfortable thought: Warm Soda 😣.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/xIZku8V0y7uqk/giphy.gif" />
+
+**What I'm building right now 🛠️**
+
+- 🧩 itsoc — an AI log-analysis SOC tool: deterministic rules own the verdict, a local model only explains, MITRE ATT&CK enrichment and a React console. Ships [itsoc-mcp](https://pypi.org/project/itsoc-mcp/0.1.0/), a published MCP server (on PyPI and the official MCP Registry) exposing seven governed, read-only tools.
+- 🎯 FS Target Engine — an agentic target-intelligence platform: LLMs under forced tool use with MCP orchestration, grounded in a source / as-of / confidence context layer, 243 automated tests as release gates.
+- 🔗 Kestra Data-Aware Orchestration POC — knowledge-graph modelling on a live pipeline (datasets as nodes, derivations as typed edges, queryable lineage) with freshness and quality gating.
   
 **Talking about Professional Stuffs:**
 
-- 👨‍💻 Ex-PM at [Vamstar](https://vamstar.io/) and [Losung360](https://losung360.com/) 
+- 🤖 Co-Founder & AI Solutions Consultant at ITSolutioning & Consulting LLP — building agentic AI products end to end
+- 👨‍💻 Ex-Senior PM at [Losung360](https://losung360.com/)
+- 👨‍💻 Ex-PM at [Vamstar](https://vamstar.io/) 
 - 👨‍💻 Ex-Product Engineering at [EY GDS](https://www.ey.com/en_in/consulting)
 - 📊 Ex-Data Anlytics Intern at [ANZ](https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship)
 - 🎮 Ex-Game-Dev domain lead at [Think-Digital](https://www.think-digital.in/) 
 - 📈 Ex-Student Ambassador at [Foxmula](https://foxmula.com/)
 - ❄ Github's **Arctic Code Vault Contributor** batch holder
+- 🧠 Ask me about AI agents, MCP, RAG, evals and shipping AI products — happy to help
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: ankit512.kumar@gmail.com
 
